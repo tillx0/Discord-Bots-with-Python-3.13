@@ -2,6 +2,7 @@
 
 ### Important things you need to know:
 ### There is a YT-Tutorial for everthing -> Just use this Link: 
+(0. Download the files as a .zip)
 1. The bot is made with this code only for one Discord bot/server -> This is because you have to enter the respective Guild_ID of the server, which makes the / commands load faster
 2. You need to create a bot in the Discord-Developer-Portal and set it up the way you want. Under "oauth2" You need to give it "Bot" and "application.commands" in "Scopes" and then in "Bot Permissions", "Administrator".
 2. You need to download VSC
