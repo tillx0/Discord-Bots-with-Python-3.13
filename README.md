@@ -1,5 +1,4 @@
 # Discord-Bots-with-Python-3.13
-### Here are all my public Discord Bots, coded with Python 3.13.
 
 ### Important things you need to know:
 ### There is a YT-Tutorial for everthing -> Just use this Link
