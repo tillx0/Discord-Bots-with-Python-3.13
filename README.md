@@ -10,7 +10,7 @@
 5. You must enter your bot token that you created via the Discord developer portal in the .env file 
 6. You also have to add all intents to the Discord developer portal (this is located under "Bot" in the left bar from the DC-Dev.-Port.)
 
-==============================================================================================================================================
+===============================================================================
 
 8. The code is not perfect, but simple and easy to understand
 9. The code is always editable and upgradeable
