@@ -12,9 +12,9 @@
 
 ==============================================================================================================================================
 
-7. The code is not perfect, but simple and easy to understand
-8. The code is always editable and upgradeable
-9. The code may be published, but preferably with credits
+8. The code is not perfect, but simple and easy to understand
+9. The code is always editable and upgradeable
+10. The code may be published, but preferably with credits
 
 ### There is a YT-Tutorial for everthing -> Just use this Link
 ### Have fun with him :)
